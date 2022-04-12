@@ -13,3 +13,4 @@ teammate change
 mangguoqingyv change
 测试
 github commit for gitee
+mindmanager 的解压后，复制到软件安装目录，管理员运行并点击patch
